@@ -1,4 +1,4 @@
-# Face-Mask-Detection-Facial-Analysis
+# Gaming News & Store Website
 
 • Interactive Gaming Platform for gathering all gamers into a website<br/>
 • Users can look up for related games and their information such as publisher, year, price, etc.<br/>
